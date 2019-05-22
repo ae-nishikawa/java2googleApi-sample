@@ -101,7 +101,6 @@ public class SheetsQuickstart {
 
 		// 対象スプレッドシートID
 		String spreadsheetId = PorpertyUtil.getProperty("ssId");
-		System.out.println(spreadsheetId);
 
 		// 対象範囲
 		String range = PorpertyUtil.getProperty("range");
