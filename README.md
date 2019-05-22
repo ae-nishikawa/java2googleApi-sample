@@ -7,9 +7,9 @@ JavaからGoogle APIを呼び出すサンプルを示す。
 *プロパティファイル設定
 
 手順は次の通り
-1.  Google側の設定
-2.　Google Apps Scriptの設定
-3.  Java実装
+1.  Google側の設定  
+2.　Google Apps Scriptの設定  
+3.  Java実装  
 
 ## 1.Google設定
 基本的に前回と一緒。  
