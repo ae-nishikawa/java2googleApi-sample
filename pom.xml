@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sample</groupId>
-	<artifactId>java2gas-sample</artifactId>
+	<artifactId>java2googleApi-sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>java2gas-sample</name>
+	<name>java2googleApi-sample</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
